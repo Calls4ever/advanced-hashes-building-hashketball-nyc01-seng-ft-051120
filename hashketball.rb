@@ -1,5 +1,6 @@
 # Write your code here!
 require 'pry'
+
 game_hash=Hash.new
 game_hash={
   home: {
@@ -41,4 +42,5 @@ players:{
     }
   }
 }
+game_hash
 binding.pry
