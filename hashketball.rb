@@ -41,5 +41,5 @@ players:{
     }
   }
 }
-game_hash
+
 #binding.pry
