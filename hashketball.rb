@@ -1,7 +1,7 @@
 # Write your code here!
 require 'pry'
 
-game_hash={
+Hashketball={
   home: {
 team_name: "Brooklyn Nets",
 colors:["Black", "White"],
