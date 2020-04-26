@@ -1,7 +1,6 @@
 # Write your code here!
 require 'pry'
 
-game_hash=Hash.new
 game_hash={
   home: {
 team_name: "Brooklyn Nets",
